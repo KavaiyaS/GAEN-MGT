@@ -1,0 +1,5 @@
+Sentiment140: https://www.kaggle.com/datasets/kazanova/sentiment140 ; https://huggingface.co/datasets/stanfordnlp/sentiment140
+Reddit Emotion Corpus: https://www.kaggle.com/datasets/debarshichanda/goemotions 
+ISEAR: https://www.unige.ch/cisa/research/materials-and-online-research/research-material/
+Hinglish Sentiment (2020–2023): https://huggingface.co/datasets/gsri-18/ISEAR-dataset-complete; https://www.kaggle.com/datasets/shivajeetrai/hinglish-data-for-sentiment-analysis
+

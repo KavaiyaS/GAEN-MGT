@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+transformers
+torch
+torchvision
+torchaudio
+tqdm
+regex
+umap-learn
+seaborn
